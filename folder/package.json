@@ -12,7 +12,11 @@
     "version": "5.4.2"
   },
   "dependencies": {
+<<<<<<< HEAD
     "hexo": "^5.0.0",
+=======
+    "hexo": "^5.4.2",
+>>>>>>> 1643534 (推送自定义域名的内容)
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
